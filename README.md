@@ -4,10 +4,10 @@
 实现了主页基本的一些控件以及其动态效果，有兴趣的可以编译试试。  
 注意：安装个别模块时可能需要搭梯子，比如node-sass。
 
-## 预览
+# 预览
 ![preview](doc/preview.png)
 
-## 编译步骤
+# 编译步骤
 
 ``` bash
 # install dependencies
