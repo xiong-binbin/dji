@@ -1,8 +1,12 @@
-# 仿大疆官网的入门项目
+# 介绍
 
-> A Vue.js project
+这是本人为了学习Vue.js框架而建立的项目，模仿大疆官网。
+实现了主页基本的一些控件以及其动态效果，有兴趣的可以编译试试。
 
-## Build Setup
+## 预览
+![preview](doc/preview2.png)
+
+## 编译步骤
 
 ``` bash
 # install dependencies
@@ -18,4 +22,4 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
