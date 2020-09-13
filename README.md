@@ -4,7 +4,7 @@
 实现了主页基本的一些控件以及其动态效果，有兴趣的可以编译试试。
 
 ## 预览
-![preview](doc/preview2.png)
+![preview](doc/preview.png)
 
 ## 编译步骤
 
